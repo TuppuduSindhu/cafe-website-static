@@ -1,6 +1,6 @@
 live link : https://tuppudusindhu.github.io/cafe-website-static/index.html
 
-
+deployed link : https://cafe-website-static.vercel.app/
 ---
 
 # ☕ Coffee Bliss – Responsive Coffee Restaurant Website
