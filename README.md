@@ -1,6 +1,5 @@
 live link : https://tuppudusindhu.github.io/cafe-website-static/index.html
-Below is a **professional, well-structured `README.md` description** suitable for **GitHub**.
-You can **copy and paste this directly** into your repository.
+
 
 ---
 
